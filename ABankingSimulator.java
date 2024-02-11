@@ -72,7 +72,7 @@ public class ABankingSimulator{
             application.execute(internalAudit);
             application.execute(treasuryAudit);
         }catch(Exception exception){
-            exception.printStackTrace();
+            System.out.println("Error executing threads in Driver file");
         }
 
         application.shutdown();

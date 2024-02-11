@@ -1,8 +1,25 @@
 import java.io.IOException;
-import java.util.concurrent.locks.Lock;
+import java.util.concurrent.locks.*;
+import java.util.concurrent.locks.ReentrantLock;
 
 public class TheBank implements TheBankInterface{
     //Variables
+    private Lock accessLock = new ReentrantLock();
+    private Condition canWithdraw = accessLock.newCondition();
+    private Condition canDeposit = accessLock.newCondition();
+
+    private int balance = 0;
+    private int transactionNum = 0;
+    private int sinceInternal = 0;
+    private int sinceTreasury = 0;
+    private int treasuryCounter = 0;
+    private int internalCounter = 0;
+
+    boolean occupied = false;
+
+    private final int DEPOSIT_ALERT = 350;
+    private final int WITHDRAW_ALERT = 75;
+
 
     public void flaggedTransaction(){
         //Generate date object or timestamp

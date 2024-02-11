@@ -10,14 +10,14 @@ public class Depositor implements Runnable {
     private static final int MAXSLEEPING = 1500;
 
     //Constructor
-    public Depositor(TheBank accountArg, String name){
-        this.threadName = name;
+    public Depositor(TheBank accountArg, String nameArg){
+        this.threadName = nameArg;
         this.account = accountArg;
     }
 
 
     @Override
     public void run(){
-
+        
     }
 }
