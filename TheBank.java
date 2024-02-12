@@ -155,7 +155,9 @@ public class TheBank implements TheBankInterface{
 
     public void flaggedTransaction(int flaggedAmount, String threadName, String type){
         if(type == "Withdraw"){
-            System.out.println("\n * * * Flagged Transaction - Withdrawal Agent " + threadName + " Made A Withdrawal In Excess of $" + WITHDRAW_ALERT + ".00 USD - See Flagged Transaction Log \n");
+            if(flaggedAmount >= WITHDRAW_ALERT){
+                System.out.println("\n * * * Flagged Transaction - Withdrawal Agent " + threadName + " Made A Withdrawal In Excess of $" + WITHDRAW_ALERT + ".00 USD - See Flagged Transaction Log \n");
+            }
         }
         else{
             System.out.println("\n * * * Flagged Transaction - Deposit Agent " + threadName + " Made A Deposit In Excess of $" + DEPOSIT_ALERT + ".00 USD - See Flagged Transaction Log \n");
