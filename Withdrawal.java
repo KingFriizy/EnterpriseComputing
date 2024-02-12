@@ -6,7 +6,7 @@ public class Withdrawal implements Runnable {
     
     //Largest deposit allowed 
     private static final int MAX_WITHDRAW = 99;
-    private static final int MAXSLEEPING = 500;
+    private static final int MAXSLEEPING = 350;
 
     //Random variables
     private int randomWithdraw;

@@ -1,373 +1,405 @@
-    DepositAgentAgent DT1 issued Deposit of 370.00 at:2024-02-12 00:10:16.211355
-    DepositAgentAgent DT4 issued Deposit of 441.00 at:2024-02-12 00:10:16.223813
-    DepositAgentAgent DT5 issued Deposit of 448.00 at:2024-02-12 00:10:16.224102
-    WithdrawAgentAgent WT1 issued Withdraw of 98.00 at:2024-02-12 00:10:16.224428
-    WithdrawAgentAgent WT3 issued Withdraw of 98.00 at:2024-02-12 00:10:16.224792
-    WithdrawAgentAgent WT4 issued Withdraw of 94.00 at:2024-02-12 00:10:16.225007
-    WithdrawAgentAgent WT6 issued Withdraw of 81.00 at:2024-02-12 00:10:16.225224
-    WithdrawAgentAgent WT10 issued Withdraw of 81.00 at:2024-02-12 00:10:16.225533
-    WithdrawAgentAgent WT5 issued Withdraw of 97.00 at:2024-02-12 00:10:16.320378
-    WithdrawAgentAgent WT3 issued Withdraw of 92.00 at:2024-02-12 00:10:16.464176
-    WithdrawAgentAgent WT8 issued Withdraw of 80.00 at:2024-02-12 00:10:16.477707
-    WithdrawAgentAgent WT1 issued Withdraw of 92.00 at:2024-02-12 00:10:16.576394
-    WithdrawAgentAgent WT10 issued Withdraw of 85.00 at:2024-02-12 00:10:16.684135
-    WithdrawAgentAgent WT4 issued Withdraw of 52.00 at:2024-02-12 00:10:16.742705
-    WithdrawAgentAgent WT5 issued Withdraw of 55.00 at:2024-02-12 00:10:16.743098
-    WithdrawAgentAgent WT3 issued Withdraw of 70.00 at:2024-02-12 00:10:16.811700
-    WithdrawAgentAgent WT8 issued Withdraw of 63.00 at:2024-02-12 00:10:16.869408
-    WithdrawAgentAgent WT1 issued Withdraw of 45.00 at:2024-02-12 00:10:16.974097
-    WithdrawAgentAgent WT9 issued Withdraw of 72.00 at:2024-02-12 00:10:17.043479
-    WithdrawAgentAgent WT1 issued Withdraw of 96.00 at:2024-02-12 00:10:17.090741
-    WithdrawAgentAgent WT2 issued Withdraw of 79.00 at:2024-02-12 00:10:17.111217
-    WithdrawAgentAgent WT10 issued Withdraw of 30.00 at:2024-02-12 00:10:17.220625
-    WithdrawAgentAgent WT8 issued Withdraw of 53.00 at:2024-02-12 00:10:17.222542
-    WithdrawAgentAgent WT6 issued Withdraw of 7.00 at:2024-02-12 00:10:17.305674
-    WithdrawAgentAgent WT1 issued Withdraw of 6.00 at:2024-02-12 00:10:17.328661
-    WithdrawAgentAgent WT3 issued Withdraw of 56.00 at:2024-02-12 00:10:17.330729
-    WithdrawAgentAgent WT7 issued Withdraw of 81.00 at:2024-02-12 00:10:17.374290
-    WithdrawAgentAgent WT2 issued Withdraw of 63.00 at:2024-02-12 00:10:17.408458
-    WithdrawAgentAgent WT5 issued Withdraw of 48.00 at:2024-02-12 00:10:17.487792
-    WithdrawAgentAgent WT9 issued Withdraw of 56.00 at:2024-02-12 00:10:17.552781
-    DepositAgentAgent DT3 issued Deposit of 495.00 at:2024-02-12 00:10:17.566068
-    WithdrawAgentAgent WT7 issued Withdraw of 92.00 at:2024-02-12 00:10:17.591672
-    WithdrawAgentAgent WT4 issued Withdraw of 77.00 at:2024-02-12 00:10:17.697117
-    DepositAgentAgent DT5 issued Deposit of 388.00 at:2024-02-12 00:12:36.234244
-    WithdrawAgentAgent WT2 issued Withdraw of 77.00 at:2024-02-12 00:12:36.240318
-    WithdrawAgentAgent WT5 issued Withdraw of 97.00 at:2024-02-12 00:12:36.240767
-    WithdrawAgentAgent WT4 issued Withdraw of 78.00 at:2024-02-12 00:12:36.363441
-    DepositAgentAgent DT1 issued Deposit of 385.00 at:2024-02-12 00:13:10.704341
-    WithdrawAgentAgent WT4 issued Withdraw of 80.00 at:2024-02-12 00:13:10.717286
-    WithdrawAgentAgent WT5 issued Withdraw of 81.00 at:2024-02-12 00:13:10.717572
-    WithdrawAgentAgent WT6 issued Withdraw of 86.00 at:2024-02-12 00:13:10.717821
-    WithdrawAgentAgent WT8 issued Withdraw of 87.00 at:2024-02-12 00:13:10.718048
-    WithdrawAgentAgent WT9 issued Withdraw of 81.00 at:2024-02-12 00:13:10.718230
-    WithdrawAgentAgent WT10 issued Withdraw of 88.00 at:2024-02-12 00:13:10.718400
-    WithdrawAgentAgent WT4 issued Withdraw of 81.00 at:2024-02-12 00:13:10.889353
-    WithdrawAgentAgent WT4 issued Withdraw of 93.00 at:2024-02-12 00:13:11.145658
-    DepositAgentAgent DT1 issued Deposit of 459.00 at:2024-02-12 00:13:11.151502
-    WithdrawAgentAgent WT8 issued Withdraw of 95.00 at:2024-02-12 00:13:11.171434
-    WithdrawAgentAgent WT3 issued Withdraw of 84.00 at:2024-02-12 00:13:11.173255
-    WithdrawAgentAgent WT8 issued Withdraw of 76.00 at:2024-02-12 00:13:11.315885
-    WithdrawAgentAgent WT2 issued Withdraw of 87.00 at:2024-02-12 00:13:11.420429
-    WithdrawAgentAgent WT1 issued Withdraw of 92.00 at:2024-02-12 00:13:11.433889
-    WithdrawAgentAgent WT10 issued Withdraw of 22.00 at:2024-02-12 00:13:11.495268
-    WithdrawAgentAgent WT2 issued Withdraw of 78.00 at:2024-02-12 00:13:58.065092
-    WithdrawAgentAgent WT9 issued Withdraw of 97.00 at:2024-02-12 00:13:58.071417
-    WithdrawAgentAgent WT8 issued Withdraw of 89.00 at:2024-02-12 00:13:58.141456
-    DepositAgentAgent DT3 issued Deposit of 415.00 at:2024-02-12 00:13:58.226557
-    WithdrawAgentAgent WT4 issued Withdraw of 96.00 at:2024-02-12 00:13:58.308243
-    WithdrawAgentAgent WT9 issued Withdraw of 96.00 at:2024-02-12 00:13:58.397855
-    WithdrawAgentAgent WT4 issued Withdraw of 53.00 at:2024-02-12 00:13:58.625930
-    DepositAgentAgent DT4 issued Deposit of 379.00 at:2024-02-12 00:13:58.657785
-    WithdrawAgentAgent WT10 issued Withdraw of 78.00 at:2024-02-12 00:13:58.745698
-    WithdrawAgentAgent WT2 issued Withdraw of 46.00 at:2024-02-12 00:13:58.848118
-    WithdrawAgentAgent WT4 issued Withdraw of 28.00 at:2024-02-12 00:13:58.884626
-    WithdrawAgentAgent WT1 issued Withdraw of 59.00 at:2024-02-12 00:13:58.938023
-    WithdrawAgentAgent WT7 issued Withdraw of 80.00 at:2024-02-12 00:13:58.967948
-    WithdrawAgentAgent WT10 issued Withdraw of 50.00 at:2024-02-12 00:13:59.046681
-    WithdrawAgentAgent WT5 issued Withdraw of 22.00 at:2024-02-12 00:13:59.076029
-    DepositAgentAgent DT5 issued Deposit of 435.00 at:2024-02-12 00:13:59.248129
-    DepositAgentAgent DT2 issued Deposit of 467.00 at:2024-02-12 00:14:41.968723
-    DepositAgentAgent DT4 issued Deposit of 447.00 at:2024-02-12 00:14:41.974069
-    DepositAgentAgent DT5 issued Deposit of 433.00 at:2024-02-12 00:14:41.974294
-    WithdrawAgentAgent WT7 issued Withdraw of 90.00 at:2024-02-12 00:14:41.975074
-    WithdrawAgentAgent WT8 issued Withdraw of 87.00 at:2024-02-12 00:14:41.975320
-    WithdrawAgentAgent WT9 issued Withdraw of 90.00 at:2024-02-12 00:14:41.975482
-    WithdrawAgentAgent WT1 issued Withdraw of 94.00 at:2024-02-12 00:14:42.063212
-    WithdrawAgentAgent WT5 issued Withdraw of 80.00 at:2024-02-12 00:14:42.104565
-    WithdrawAgentAgent WT4 issued Withdraw of 76.00 at:2024-02-12 00:14:42.232017
-    WithdrawAgentAgent WT6 issued Withdraw of 88.00 at:2024-02-12 00:15:13.637359
-    DepositAgentAgent DT1 issued Deposit of 386.00 at:2024-02-12 00:15:13.736712
-    WithdrawAgentAgent WT5 issued Withdraw of 84.00 at:2024-02-12 00:15:13.897247
-    WithdrawAgentAgent WT10 issued Withdraw of 76.00 at:2024-02-12 00:15:13.908714
-    DepositAgentAgent DT1 issued Deposit of 409.00 at:2024-02-12 00:16:11.752145
-    DepositAgentAgent DT3 issued Deposit of 477.00 at:2024-02-12 00:16:11.764776
-    DepositAgentAgent DT4 issued Deposit of 404.00 at:2024-02-12 00:16:11.765035
-    WithdrawAgentAgent WT6 issued Withdraw of 75.00 at:2024-02-12 00:16:11.765832
-    WithdrawAgentAgent WT8 issued Withdraw of 88.00 at:2024-02-12 00:16:11.829423
-    WithdrawAgentAgent WT1 issued Withdraw of 96.00 at:2024-02-12 00:16:12.066664
-    WithdrawAgentAgent WT10 issued Withdraw of 86.00 at:2024-02-12 00:16:12.110781
-    WithdrawAgentAgent WT6 issued Withdraw of 94.00 at:2024-02-12 00:16:12.114671
-    WithdrawAgentAgent WT5 issued Withdraw of 87.00 at:2024-02-12 00:16:12.394844
-    DepositAgentAgent DT3 issued Deposit of 353.00 at:2024-02-12 00:16:54.148471
-    WithdrawAgentAgent WT2 issued Withdraw of 82.00 at:2024-02-12 00:16:54.154669
-    WithdrawAgentAgent WT3 issued Withdraw of 87.00 at:2024-02-12 00:16:54.154892
-    WithdrawAgentAgent WT4 issued Withdraw of 88.00 at:2024-02-12 00:16:54.155055
-    WithdrawAgentAgent WT7 issued Withdraw of 84.00 at:2024-02-12 00:16:54.155290
-    WithdrawAgentAgent WT3 issued Withdraw of 93.00 at:2024-02-12 00:16:54.298889
-    WithdrawAgentAgent WT9 issued Withdraw of 75.00 at:2024-02-12 00:16:54.519748
-    WithdrawAgentAgent WT1 issued Withdraw of 95.00 at:2024-02-12 00:16:54.542001
-    WithdrawAgentAgent WT10 issued Withdraw of 92.00 at:2024-02-12 00:16:54.596675
-    WithdrawAgentAgent WT7 issued Withdraw of 37.00 at:2024-02-12 00:16:54.607223
-    WithdrawAgentAgent WT8 issued Withdraw of 14.00 at:2024-02-12 00:16:54.643101
-    DepositAgentAgent DT4 issued Deposit of 464.00 at:2024-02-12 00:17:26.056008
-    WithdrawAgentAgent WT3 issued Withdraw of 79.00 at:2024-02-12 00:17:26.062012
-    WithdrawAgentAgent WT4 issued Withdraw of 93.00 at:2024-02-12 00:17:26.062267
-    WithdrawAgentAgent WT7 issued Withdraw of 87.00 at:2024-02-12 00:17:26.062651
-    WithdrawAgentAgent WT8 issued Withdraw of 91.00 at:2024-02-12 00:17:26.062839
-    WithdrawAgentAgent WT6 issued Withdraw of 86.00 at:2024-02-12 00:17:26.104779
-    WithdrawAgentAgent WT6 issued Withdraw of 82.00 at:2024-02-12 00:17:26.207692
-    WithdrawAgentAgent WT7 issued Withdraw of 86.00 at:2024-02-12 00:17:26.379168
-    WithdrawAgentAgent WT1 issued Withdraw of 89.00 at:2024-02-12 00:17:26.486900
-    WithdrawAgentAgent WT10 issued Withdraw of 58.00 at:2024-02-12 00:17:26.491289
-    WithdrawAgentAgent WT8 issued Withdraw of 45.00 at:2024-02-12 00:17:26.491559
-    WithdrawAgentAgent WT6 issued Withdraw of 38.00 at:2024-02-12 00:17:26.494442
-    WithdrawAgentAgent WT9 issued Withdraw of 40.00 at:2024-02-12 00:17:26.508951
-    WithdrawAgentAgent WT5 issued Withdraw of 49.00 at:2024-02-12 00:17:26.541927
-    DepositAgentAgent DT1 issued Deposit of 471.00 at:2024-02-12 00:18:11.937591
-    DepositAgentAgent DT3 issued Deposit of 461.00 at:2024-02-12 00:18:11.950857
-    WithdrawAgentAgent WT3 issued Withdraw of 89.00 at:2024-02-12 00:18:11.951605
-    WithdrawAgentAgent WT4 issued Withdraw of 78.00 at:2024-02-12 00:18:11.951883
-    WithdrawAgentAgent WT7 issued Withdraw of 97.00 at:2024-02-12 00:18:11.952182
-    WithdrawAgentAgent WT10 issued Withdraw of 86.00 at:2024-02-12 00:18:11.952487
-    WithdrawAgentAgent WT9 issued Withdraw of 78.00 at:2024-02-12 00:18:12.001582
-    DepositAgentAgent DT3 issued Deposit of 402.00 at:2024-02-12 00:18:12.010186
-    WithdrawAgentAgent WT1 issued Withdraw of 79.00 at:2024-02-12 00:18:12.034049
-    WithdrawAgentAgent WT2 issued Withdraw of 93.00 at:2024-02-12 00:18:12.056934
-    WithdrawAgentAgent WT7 issued Withdraw of 75.00 at:2024-02-12 00:18:12.128884
-    WithdrawAgentAgent WT1 issued Withdraw of 77.00 at:2024-02-12 00:19:20.980960
-    WithdrawAgentAgent WT4 issued Withdraw of 82.00 at:2024-02-12 00:19:20.986454
-    WithdrawAgentAgent WT8 issued Withdraw of 83.00 at:2024-02-12 00:19:20.986836
-    WithdrawAgentAgent WT9 issued Withdraw of 89.00 at:2024-02-12 00:19:20.987099
-    WithdrawAgentAgent WT7 issued Withdraw of 75.00 at:2024-02-12 00:19:21.206069
-    WithdrawAgentAgent WT10 issued Withdraw of 92.00 at:2024-02-12 00:19:21.242662
-    WithdrawAgentAgent WT9 issued Withdraw of 62.00 at:2024-02-12 00:19:21.283635
-    WithdrawAgentAgent WT6 issued Withdraw of 82.00 at:2024-02-12 00:19:21.286936
-    WithdrawAgentAgent WT5 issued Withdraw of 54.00 at:2024-02-12 00:19:21.297367
-    WithdrawAgentAgent WT1 issued Withdraw of 93.00 at:2024-02-12 00:19:21.378019
-    WithdrawAgentAgent WT2 issued Withdraw of 15.00 at:2024-02-12 00:19:21.397662
-    DepositAgentAgent DT2 issued Deposit of 468.00 at:2024-02-12 00:19:21.423563
-    WithdrawAgentAgent WT8 issued Withdraw of 88.00 at:2024-02-12 00:19:21.439076
-    WithdrawAgentAgent WT6 issued Withdraw of 90.00 at:2024-02-12 00:19:21.556485
-    WithdrawAgentAgent WT10 issued Withdraw of 77.00 at:2024-02-12 00:19:21.590284
-    WithdrawAgentAgent WT5 issued Withdraw of 89.00 at:2024-02-12 00:19:21.631200
-    DepositAgentAgent DT5 issued Deposit of 375.00 at:2024-02-12 00:19:21.631460
-    DepositAgentAgent DT2 issued Deposit of 478.00 at:2024-02-12 00:19:21.698712
-    WithdrawAgentAgent WT7 issued Withdraw of 80.00 at:2024-02-12 00:19:21.807174
-    WithdrawAgentAgent WT9 issued Withdraw of 84.00 at:2024-02-12 00:19:21.813405
-    WithdrawAgentAgent WT2 issued Withdraw of 87.00 at:2024-02-12 00:34:00.252959
-    WithdrawAgentAgent WT4 issued Withdraw of 96.00 at:2024-02-12 00:34:00.258205
-    WithdrawAgentAgent WT6 issued Withdraw of 77.00 at:2024-02-12 00:34:00.258489
-    WithdrawAgentAgent WT10 issued Withdraw of 80.00 at:2024-02-12 00:34:00.258780
-    WithdrawAgentAgent WT6 issued Withdraw of 98.00 at:2024-02-12 00:34:00.483818
-    WithdrawAgentAgent WT3 issued Withdraw of 88.00 at:2024-02-12 00:34:00.537815
-    WithdrawAgentAgent WT8 issued Withdraw of 85.00 at:2024-02-12 00:34:00.570290
-    WithdrawAgentAgent WT2 issued Withdraw of 93.00 at:2024-02-12 00:34:00.636373
-    WithdrawAgentAgent WT6 issued Withdraw of 79.00 at:2024-02-12 00:34:00.677728
-    WithdrawAgentAgent WT5 issued Withdraw of 85.00 at:2024-02-12 00:34:00.678197
-    WithdrawAgentAgent WT1 issued Withdraw of 98.00 at:2024-02-12 00:34:00.705144
-    WithdrawAgentAgent WT7 issued Withdraw of 39.00 at:2024-02-12 00:34:00.716586
-    WithdrawAgentAgent WT4 issued Withdraw of 13.00 at:2024-02-12 00:34:00.810159
-    WithdrawAgentAgent WT3 issued Withdraw of 12.00 at:2024-02-12 00:34:00.846429
-    WithdrawAgentAgent WT3 issued Withdraw of 75.00 at:2024-02-12 00:34:27.643537
-    WithdrawAgentAgent WT1 issued Withdraw of 79.00 at:2024-02-12 00:34:27.649595
-    WithdrawAgentAgent WT1 issued Withdraw of 79.00 at:2024-02-12 00:34:27.711961
-    WithdrawAgentAgent WT2 issued Withdraw of 98.00 at:2024-02-12 00:34:27.736257
-    WithdrawAgentAgent WT8 issued Withdraw of 78.00 at:2024-02-12 00:34:27.759269
-    WithdrawAgentAgent WT6 issued Withdraw of 67.00 at:2024-02-12 00:34:27.792276
-    WithdrawAgentAgent WT4 issued Withdraw of 76.00 at:2024-02-12 00:34:27.816577
-    WithdrawAgentAgent WT5 issued Withdraw of 53.00 at:2024-02-12 00:34:27.817375
-    WithdrawAgentAgent WT10 issued Withdraw of 25.00 at:2024-02-12 00:34:27.836395
-    WithdrawAgentAgent WT9 issued Withdraw of 38.00 at:2024-02-12 00:34:28.052576
-    WithdrawAgentAgent WT8 issued Withdraw of 74.00 at:2024-02-12 00:34:28.055327
-    WithdrawAgentAgent WT1 issued Withdraw of 43.00 at:2024-02-12 00:34:28.068002
-    DepositAgentAgent DT2 issued Deposit of 475.00 at:2024-02-12 00:43:36.749817
-    DepositAgentAgent DT3 issued Deposit of 410.00 at:2024-02-12 00:43:36.754839
-    DepositAgentAgent DT5 issued Deposit of 492.00 at:2024-02-12 00:43:36.755112
-    WithdrawAgentAgent WT4 issued Withdraw of 87.00 at:2024-02-12 00:43:36.758404
-    WithdrawAgentAgent WT6 issued Withdraw of 81.00 at:2024-02-12 00:43:36.758685
-    WithdrawAgentAgent WT7 issued Withdraw of 82.00 at:2024-02-12 00:43:36.959331
-    WithdrawAgentAgent WT2 issued Withdraw of 98.00 at:2024-02-12 00:43:37.171897
-    WithdrawAgentAgent WT7 issued Withdraw of 95.00 at:2024-02-12 00:43:37.279194
-    DepositAgentAgent DT2 issued Deposit of 363.00 at:2024-02-12 00:43:37.311174
-    WithdrawAgentAgent WT1 issued Withdraw of 84.00 at:2024-02-12 00:43:37.407701
-    WithdrawAgentAgent WT1 issued Withdraw of 97.00 at:2024-02-12 00:43:37.646445
-    DepositAgentAgent DT1 issued Deposit of 397.00 at:2024-02-12 00:46:13.454742
-    DepositAgentAgent DT3 issued Deposit of 380.00 at:2024-02-12 00:46:13.468162
-    DepositAgentAgent DT4 issued Deposit of 472.00 at:2024-02-12 00:46:13.468442
-    WithdrawAgentAgent WT5 issued Withdraw of 95.00 at:2024-02-12 00:46:13.471663
-    WithdrawAgentAgent WT8 issued Withdraw of 79.00 at:2024-02-12 00:46:13.472016
-    WithdrawAgentAgent WT9 issued Withdraw of 80.00 at:2024-02-12 00:46:13.472190
-    WithdrawAgentAgent WT10 issued Withdraw of 81.00 at:2024-02-12 00:46:13.472379
-    WithdrawAgentAgent WT4 issued Withdraw of 96.00 at:2024-02-12 00:46:13.821757
-    WithdrawAgentAgent WT3 issued Withdraw of 86.00 at:2024-02-12 00:46:13.921707
-    WithdrawAgentAgent WT3 issued Withdraw of 75.00 at:2024-02-12 00:46:14.164465
-    WithdrawAgentAgent WT3 issued Withdraw of 77.00 at:2024-02-12 00:46:14.277055
-    WithdrawAgentAgent WT4 issued Withdraw of 79.00 at:2024-02-12 00:46:14.289904
-    WithdrawAgentAgent WT6 issued Withdraw of 71.00 at:2024-02-12 00:46:14.308751
-    WithdrawAgentAgent WT10 issued Withdraw of 80.00 at:2024-02-12 00:46:14.342947
-    WithdrawAgentAgent WT1 issued Withdraw of 68.00 at:2024-02-12 00:46:14.349425
-    WithdrawAgentAgent WT8 issued Withdraw of 25.00 at:2024-02-12 00:46:14.357710
-    WithdrawAgentAgent WT7 issued Withdraw of 77.00 at:2024-02-12 00:46:14.394593
-    WithdrawAgentAgent WT8 issued Withdraw of 65.00 at:2024-02-12 00:46:14.555020
-    WithdrawAgentAgent WT9 issued Withdraw of 70.00 at:2024-02-12 00:46:14.593884
-    WithdrawAgentAgent WT10 issued Withdraw of 56.00 at:2024-02-12 00:46:14.605900
-    WithdrawAgentAgent WT2 issued Withdraw of 49.00 at:2024-02-12 00:46:14.651203
-    WithdrawAgentAgent WT3 issued Withdraw of 19.00 at:2024-02-12 00:46:14.653245
-    WithdrawAgentAgent WT1 issued Withdraw of 74.00 at:2024-02-12 00:46:14.677242
-    WithdrawAgentAgent WT4 issued Withdraw of 69.00 at:2024-02-12 00:46:14.711980
-    WithdrawAgentAgent WT7 issued Withdraw of 27.00 at:2024-02-12 00:46:14.720713
-    WithdrawAgentAgent WT6 issued Withdraw of 15.00 at:2024-02-12 00:46:14.829179
-    WithdrawAgentAgent WT5 issued Withdraw of 66.00 at:2024-02-12 00:46:14.900738
-    WithdrawAgentAgent WT10 issued Withdraw of 29.00 at:2024-02-12 00:46:15.104108
-    WithdrawAgentAgent WT2 issued Withdraw of 83.00 at:2024-02-12 00:46:15.150033
-    WithdrawAgentAgent WT6 issued Withdraw of 53.00 at:2024-02-12 00:46:15.172091
-    WithdrawAgentAgent WT2 issued Withdraw of 46.00 at:2024-02-12 00:46:15.186555
-    WithdrawAgentAgent WT7 issued Withdraw of 81.00 at:2024-02-12 00:48:44.228120
-    WithdrawAgentAgent WT8 issued Withdraw of 85.00 at:2024-02-12 00:48:44.232282
-    WithdrawAgentAgent WT10 issued Withdraw of 81.00 at:2024-02-12 00:48:44.232567
-    WithdrawAgentAgent WT8 issued Withdraw of 76.00 at:2024-02-12 00:48:44.263212
-    WithdrawAgentAgent WT7 issued Withdraw of 84.00 at:2024-02-12 00:48:44.318592
-    WithdrawAgentAgent WT3 issued Withdraw of 54.00 at:2024-02-12 00:48:44.391961
-    WithdrawAgentAgent WT2 issued Withdraw of 57.00 at:2024-02-12 00:48:44.412075
-    WithdrawAgentAgent WT4 issued Withdraw of 54.00 at:2024-02-12 00:48:44.435079
-    DepositAgentAgent DT2 issued Deposit of 459.00 at:2024-02-12 00:48:44.485491
-    WithdrawAgentAgent WT1 issued Withdraw of 93.00 at:2024-02-12 00:48:44.540133
-    WithdrawAgentAgent WT1 issued Withdraw of 85.00 at:2024-02-12 00:48:44.630778
-    WithdrawAgentAgent WT5 issued Withdraw of 80.00 at:2024-02-12 00:48:44.725408
-    WithdrawAgentAgent WT3 issued Withdraw of 69.00 at:2024-02-12 00:48:44.805670
-    WithdrawAgentAgent WT6 issued Withdraw of 9.00 at:2024-02-12 00:48:44.968732
-    WithdrawAgentAgent WT2 issued Withdraw of 59.00 at:2024-02-12 00:48:44.979582
-    DepositAgentAgent DT4 issued Deposit of 399.00 at:2024-02-12 00:49:59.616444
-    WithdrawAgentAgent WT4 issued Withdraw of 84.00 at:2024-02-12 00:49:59.624523
-    WithdrawAgentAgent WT7 issued Withdraw of 96.00 at:2024-02-12 00:49:59.624827
-    WithdrawAgentAgent WT1 issued Withdraw of 76.00 at:2024-02-12 00:49:59.780935
-    WithdrawAgentAgent WT2 issued Withdraw of 79.00 at:2024-02-12 00:50:00.089652
-    WithdrawAgentAgent WT7 issued Withdraw of 79.00 at:2024-02-12 00:50:00.160386
-    WithdrawAgentAgent WT7 issued Withdraw of 52.00 at:2024-02-12 00:50:00.383152
-    WithdrawAgentAgent WT1 issued Withdraw of 21.00 at:2024-02-12 00:50:00.397319
-    WithdrawAgentAgent WT2 issued Withdraw of 46.00 at:2024-02-12 00:50:00.430538
-    WithdrawAgentAgent WT3 issued Withdraw of 25.00 at:2024-02-12 00:50:00.431035
-    WithdrawAgentAgent WT5 issued Withdraw of 23.00 at:2024-02-12 00:50:00.497934
-    WithdrawAgentAgent WT1 issued Withdraw of 27.00 at:2024-02-12 00:50:00.512896
-    WithdrawAgentAgent WT8 issued Withdraw of 69.00 at:2024-02-12 00:50:00.539996
-    WithdrawAgentAgent WT2 issued Withdraw of 57.00 at:2024-02-12 00:50:00.567273
-    WithdrawAgentAgent WT10 issued Withdraw of 70.00 at:2024-02-12 00:50:00.580835
-    WithdrawAgentAgent WT4 issued Withdraw of 48.00 at:2024-02-12 00:50:00.602628
-    WithdrawAgentAgent WT9 issued Withdraw of 22.00 at:2024-02-12 00:50:00.613775
-    WithdrawAgentAgent WT3 issued Withdraw of 74.00 at:2024-02-12 00:50:00.640268
-    WithdrawAgentAgent WT6 issued Withdraw of 40.00 at:2024-02-12 00:50:00.684463
-    WithdrawAgentAgent WT7 issued Withdraw of 79.00 at:2024-02-12 00:50:00.852180
-    DepositAgentAgent DT4 issued Deposit of 398.00 at:2024-02-12 00:50:01.172129
-    WithdrawAgentAgent WT9 issued Withdraw of 89.00 at:2024-02-12 00:50:01.203601
-    WithdrawAgentAgent WT7 issued Withdraw of 87.00 at:2024-02-12 00:50:01.213913
-    DepositAgentAgent DT1 issued Deposit of 446.00 at:2024-02-12 00:50:43.072478
-    WithdrawAgentAgent WT1 issued Withdraw of 97.00 at:2024-02-12 00:50:43.077975
-    WithdrawAgentAgent WT9 issued Withdraw of 75.00 at:2024-02-12 00:50:43.081305
-    WithdrawAgentAgent WT6 issued Withdraw of 95.00 at:2024-02-12 00:50:43.091561
-    WithdrawAgentAgent WT10 issued Withdraw of 97.00 at:2024-02-12 00:50:43.327759
-    WithdrawAgentAgent WT9 issued Withdraw of 86.00 at:2024-02-12 00:50:43.543261
-    WithdrawAgentAgent WT1 issued Withdraw of 94.00 at:2024-02-12 00:50:43.562106
-    WithdrawAgentAgent WT2 issued Withdraw of 91.00 at:2024-02-12 00:50:43.575460
-    WithdrawAgentAgent WT8 issued Withdraw of 66.00 at:2024-02-12 00:50:43.630445
-    WithdrawAgentAgent WT9 issued Withdraw of 73.00 at:2024-02-12 00:50:43.631195
-    WithdrawAgentAgent WT1 issued Withdraw of 42.00 at:2024-02-12 00:50:43.655947
-    WithdrawAgentAgent WT5 issued Withdraw of 63.00 at:2024-02-12 00:50:43.725351
-    WithdrawAgentAgent WT6 issued Withdraw of 48.00 at:2024-02-12 00:50:43.738602
-    WithdrawAgentAgent WT7 issued Withdraw of 89.00 at:2024-02-12 00:50:43.743461
-    WithdrawAgentAgent WT10 issued Withdraw of 42.00 at:2024-02-12 00:50:43.793962
-    WithdrawAgentAgent WT4 issued Withdraw of 56.00 at:2024-02-12 00:50:43.896612
-    WithdrawAgentAgent WT2 issued Withdraw of 28.00 at:2024-02-12 00:50:43.907810
-    WithdrawAgentAgent WT3 issued Withdraw of 45.00 at:2024-02-12 00:50:44.203572
-    DepositAgentAgent DT3 issued Deposit of 489.00 at:2024-02-12 00:51:27.053916
-    DepositAgentAgent DT5 issued Deposit of 446.00 at:2024-02-12 00:51:27.059658
-    WithdrawAgentAgent WT9 issued Withdraw of 90.00 at:2024-02-12 00:51:27.063440
-    WithdrawAgentAgent WT10 issued Withdraw of 91.00 at:2024-02-12 00:51:27.063658
-    WithdrawAgentAgent WT2 issued Withdraw of 82.00 at:2024-02-12 00:51:27.108256
-    WithdrawAgentAgent WT5 issued Withdraw of 79.00 at:2024-02-12 00:51:27.215121
-    WithdrawAgentAgent WT8 issued Withdraw of 95.00 at:2024-02-12 00:51:27.262382
-    DepositAgentAgent DT3 issued Deposit of 386.00 at:2024-02-12 00:51:27.471078
-    WithdrawAgentAgent WT4 issued Withdraw of 97.00 at:2024-02-12 00:51:27.557305
-    WithdrawAgentAgent WT6 issued Withdraw of 81.00 at:2024-02-12 00:51:27.564402
-    DepositAgentAgent DT4 issued Deposit of 423.00 at:2024-02-12 00:51:27.713782
-    WithdrawAgentAgent WT9 issued Withdraw of 87.00 at:2024-02-12 00:51:27.806427
-    WithdrawAgentAgent WT2 issued Withdraw of 90.00 at:2024-02-12 00:51:27.895742
-    WithdrawAgentAgent WT1 issued Withdraw of 60.00 at:2024-02-12 00:51:28.019508
-    WithdrawAgentAgent WT8 issued Withdraw of 29.00 at:2024-02-12 00:51:28.024793
-    WithdrawAgentAgent WT5 issued Withdraw of 54.00 at:2024-02-12 00:51:28.041472
-    DepositAgentAgent DT2 issued Deposit of 479.00 at:2024-02-12 00:51:52.836048
-    DepositAgentAgent DT3 issued Deposit of 375.00 at:2024-02-12 00:51:52.841104
-    DepositAgentAgent DT5 issued Deposit of 360.00 at:2024-02-12 00:51:52.841492
-    WithdrawAgentAgent WT3 issued Withdraw of 80.00 at:2024-02-12 00:51:52.844483
-    WithdrawAgentAgent WT7 issued Withdraw of 95.00 at:2024-02-12 00:51:52.844758
-    WithdrawAgentAgent WT4 issued Withdraw of 87.00 at:2024-02-12 00:51:52.943835
-    WithdrawAgentAgent WT6 issued Withdraw of 82.00 at:2024-02-12 00:51:53.137142
-    WithdrawAgentAgent WT10 issued Withdraw of 84.00 at:2024-02-12 00:51:53.225453
-    WithdrawAgentAgent WT3 issued Withdraw of 97.00 at:2024-02-12 00:51:53.303204
-    WithdrawAgentAgent WT10 issued Withdraw of 96.00 at:2024-02-12 00:51:53.421372
-    WithdrawAgentAgent WT8 issued Withdraw of 79.00 at:2024-02-12 00:51:53.463506
-    WithdrawAgentAgent WT1 issued Withdraw of 95.00 at:2024-02-12 00:51:53.486459
-    WithdrawAgentAgent WT1 issued Withdraw of 75.00 at:2024-02-12 00:51:53.498252
-    WithdrawAgentAgent WT1 issued Withdraw of 83.00 at:2024-02-12 00:51:53.734377
-    DepositAgentAgent DT1 issued Deposit of 390.00 at:2024-02-12 00:52:11.918511
-    WithdrawAgentAgent WT6 issued Withdraw of 94.00 at:2024-02-12 00:52:11.934482
-    WithdrawAgentAgent WT7 issued Withdraw of 91.00 at:2024-02-12 00:52:11.934769
-    WithdrawAgentAgent WT8 issued Withdraw of 98.00 at:2024-02-12 00:52:11.934967
-    WithdrawAgentAgent WT9 issued Withdraw of 88.00 at:2024-02-12 00:52:11.935228
-    WithdrawAgentAgent WT10 issued Withdraw of 77.00 at:2024-02-12 00:52:12.112747
-    WithdrawAgentAgent WT4 issued Withdraw of 91.00 at:2024-02-12 00:52:12.307716
-    WithdrawAgentAgent WT8 issued Withdraw of 63.00 at:2024-02-12 00:52:12.369729
-    WithdrawAgentAgent WT2 issued Withdraw of 76.00 at:2024-02-12 00:52:12.370892
-    WithdrawAgentAgent WT10 issued Withdraw of 63.00 at:2024-02-12 00:52:12.375188
-    WithdrawAgentAgent WT6 issued Withdraw of 77.00 at:2024-02-12 00:52:12.402897
-    WithdrawAgentAgent WT5 issued Withdraw of 97.00 at:2024-02-12 00:52:12.476145
-    WithdrawAgentAgent WT1 issued Withdraw of 64.00 at:2024-02-12 00:52:12.565531
-    WithdrawAgentAgent WT4 issued Withdraw of 42.00 at:2024-02-12 00:52:12.640108
-    WithdrawAgentAgent WT10 issued Withdraw of 90.00 at:2024-02-12 00:52:12.664977
-    WithdrawAgentAgent WT9 issued Withdraw of 61.00 at:2024-02-12 00:52:12.709426
-    WithdrawAgentAgent WT7 issued Withdraw of 57.00 at:2024-02-12 00:52:12.772038
-    WithdrawAgentAgent WT2 issued Withdraw of 72.00 at:2024-02-12 00:52:12.772640
-    WithdrawAgentAgent WT3 issued Withdraw of 43.00 at:2024-02-12 00:52:12.773622
-    WithdrawAgentAgent WT6 issued Withdraw of 97.00 at:2024-02-12 00:52:12.793110
-    WithdrawAgentAgent WT8 issued Withdraw of 24.00 at:2024-02-12 00:52:12.851404
-    WithdrawAgentAgent WT10 issued Withdraw of 72.00 at:2024-02-12 00:52:13.107048
-    WithdrawAgentAgent WT6 issued Withdraw of 89.00 at:2024-02-12 00:52:13.118888
-    WithdrawAgentAgent WT3 issued Withdraw of 98.00 at:2024-02-12 00:52:13.260839
-    WithdrawAgentAgent WT4 issued Withdraw of 63.00 at:2024-02-12 00:52:13.283044
-    WithdrawAgentAgent WT10 issued Withdraw of 94.00 at:2024-02-12 00:52:13.327622
-    WithdrawAgentAgent WT1 issued Withdraw of 30.00 at:2024-02-12 00:52:13.391216
-    WithdrawAgentAgent WT5 issued Withdraw of 73.00 at:2024-02-12 00:52:13.434388
-    WithdrawAgentAgent WT8 issued Withdraw of 18.00 at:2024-02-12 00:52:13.485513
-    WithdrawAgentAgent WT9 issued Withdraw of 81.00 at:2024-02-12 00:52:13.493701
-    WithdrawAgentAgent WT7 issued Withdraw of 58.00 at:2024-02-12 00:52:13.536837
-    WithdrawAgentAgent WT3 issued Withdraw of 50.00 at:2024-02-12 00:52:13.712856
-    WithdrawAgentAgent WT6 issued Withdraw of 53.00 at:2024-02-12 00:52:13.825455
-    WithdrawAgentAgent WT2 issued Withdraw of 32.00 at:2024-02-12 00:52:13.835569
-    DepositAgentAgent DT1 issued Deposit of 374.00 at:2024-02-12 00:52:13.874973
-    WithdrawAgentAgent WT3 issued Withdraw of 80.00 at:2024-02-12 00:52:14.326400
-    DepositAgentAgent DT2 issued Deposit of 449.00 at:2024-02-12 00:52:14.490174
-    WithdrawAgentAgent WT7 issued Withdraw of 97.00 at:2024-02-12 00:52:14.576656
-    WithdrawAgentAgent WT9 issued Withdraw of 98.00 at:2024-02-12 00:52:14.609477
-    WithdrawAgentAgent WT8 issued Withdraw of 83.00 at:2024-02-12 00:52:14.646531
-    DepositAgentAgent DT5 issued Deposit of 433.00 at:2024-02-12 00:52:56.340520
-    WithdrawAgentAgent WT7 issued Withdraw of 81.00 at:2024-02-12 00:52:56.349528
-    WithdrawAgentAgent WT10 issued Withdraw of 89.00 at:2024-02-12 00:52:56.438500
-    WithdrawAgentAgent WT1 issued Withdraw of 89.00 at:2024-02-12 00:52:56.751389
-    WithdrawAgentAgent WT2 issued Withdraw of 86.00 at:2024-02-12 00:52:56.843873
-    WithdrawAgentAgent WT3 issued Withdraw of 81.00 at:2024-02-12 00:52:56.891237
-    WithdrawAgentAgent WT9 issued Withdraw of 88.00 at:2024-02-12 00:52:57.166206
-    WithdrawAgentAgent WT1 issued Withdraw of 86.00 at:2024-02-12 00:52:57.186458
-    WithdrawAgentAgent WT6 issued Withdraw of 86.00 at:2024-02-12 00:52:57.340395
-    WithdrawAgentAgent WT4 issued Withdraw of 76.00 at:2024-02-12 00:52:57.388809
-    WithdrawAgentAgent WT7 issued Withdraw of 85.00 at:2024-02-12 00:52:57.573330
-    WithdrawAgentAgent WT2 issued Withdraw of 81.00 at:2024-02-12 00:52:57.598603
-    WithdrawAgentAgent WT5 issued Withdraw of 55.00 at:2024-02-12 00:52:57.612556
-    WithdrawAgentAgent WT4 issued Withdraw of 65.00 at:2024-02-12 00:52:57.615445
-    WithdrawAgentAgent WT1 issued Withdraw of 92.00 at:2024-02-12 00:52:57.669705
-    WithdrawAgentAgent WT3 issued Withdraw of 72.00 at:2024-02-12 00:52:57.699716
-    WithdrawAgentAgent WT2 issued Withdraw of 95.00 at:2024-02-12 00:52:57.757161
-    WithdrawAgentAgent WT6 issued Withdraw of 95.00 at:2024-02-12 00:52:57.766531
-    WithdrawAgentAgent WT10 issued Withdraw of 28.00 at:2024-02-12 00:52:57.820318
-    WithdrawAgentAgent WT7 issued Withdraw of 31.00 at:2024-02-12 00:52:57.909549
-    WithdrawAgentAgent WT8 issued Withdraw of 43.00 at:2024-02-12 00:52:58.075387
-    WithdrawAgentAgent WT10 issued Withdraw of 77.00 at:2024-02-12 00:52:58.087331
-    WithdrawAgentAgent WT3 issued Withdraw of 89.00 at:2024-02-12 00:52:58.207919
-    WithdrawAgentAgent WT9 issued Withdraw of 83.00 at:2024-02-12 00:52:58.215861
-    WithdrawAgentAgent WT1 issued Withdraw of 70.00 at:2024-02-12 00:52:58.216098
-    WithdrawAgentAgent WT4 issued Withdraw of 40.00 at:2024-02-12 00:52:58.239423
-    WithdrawAgentAgent WT5 issued Withdraw of 81.00 at:2024-02-12 00:52:58.247459
-    DepositAgentAgent DT3 issued Deposit of 450.00 at:2024-02-12 00:52:58.380752
-    WithdrawAgentAgent WT6 issued Withdraw of 87.00 at:2024-02-12 00:52:58.460560
-    WithdrawAgentAgent WT10 issued Withdraw of 96.00 at:2024-02-12 00:52:58.556958
-    WithdrawAgentAgent WT1 issued Withdraw of 84.00 at:2024-02-12 00:52:58.566583
-    WithdrawAgentAgent WT2 issued Withdraw of 93.00 at:2024-02-12 00:52:58.594791
+Deposit Agent issued Deposit of $390.00 at: 12/02/2024 03:56:10 EST Transaction Number: 2
+Deposit Agent issued Deposit of $500.00 at: 12/02/2024 03:56:10 EST Transaction Number: 4
+	Withdraw Agent issued Withdraw of $86.00 at: 12/02/2024 03:56:10 EST Transaction Number: 10
+	Withdraw Agent issued Withdraw of $93.00 at: 12/02/2024 03:56:10 EST Transaction Number: 14
+	Withdraw Agent issued Withdraw of $94.00 at: 12/02/2024 03:56:10 EST Transaction Number: 19
+	Withdraw Agent issued Withdraw of $90.00 at: 12/02/2024 03:56:10 EST Transaction Number: 23
+	Withdraw Agent issued Withdraw of $95.00 at: 12/02/2024 03:56:10 EST Transaction Number: 25
+	Withdraw Agent issued Withdraw of $93.00 at: 12/02/2024 03:56:10 EST Transaction Number: 30
+	Withdraw Agent issued Withdraw of $92.00 at: 12/02/2024 03:56:11 EST Transaction Number: 33
+	Withdraw Agent issued Withdraw of $84.00 at: 12/02/2024 03:56:11 EST Transaction Number: 33
+	Withdraw Agent issued Withdraw of $93.00 at: 12/02/2024 03:56:11 EST Transaction Number: 35
+	Withdraw Agent issued Withdraw of $79.00 at: 12/02/2024 03:56:11 EST Transaction Number: 35
+	Withdraw Agent issued Withdraw of $98.00 at: 12/02/2024 03:56:11 EST Transaction Number: 35
+Deposit Agent issued Deposit of $429.00 at: 12/02/2024 03:56:11 EST Transaction Number: 36
+	Withdraw Agent issued Withdraw of $77.00 at: 12/02/2024 03:56:11 EST Transaction Number: 44
+	Withdraw Agent issued Withdraw of $94.00 at: 12/02/2024 03:56:11 EST Transaction Number: 46
+	Withdraw Agent issued Withdraw of $83.00 at: 12/02/2024 03:56:11 EST Transaction Number: 46
+	Withdraw Agent issued Withdraw of $96.00 at: 12/02/2024 03:56:12 EST Transaction Number: 48
+	Withdraw Agent issued Withdraw of $88.00 at: 12/02/2024 03:56:12 EST Transaction Number: 50
+	Withdraw Agent issued Withdraw of $85.00 at: 12/02/2024 03:56:12 EST Transaction Number: 51
+Deposit Agent issued Deposit of $411.00 at: 12/02/2024 03:56:12 EST Transaction Number: 52
+Deposit Agent issued Deposit of $380.00 at: 12/02/2024 03:56:12 EST Transaction Number: 55
+	Withdraw Agent issued Withdraw of $85.00 at: 12/02/2024 03:56:12 EST Transaction Number: 58
+Deposit Agent issued Deposit of $413.00 at: 12/02/2024 03:56:12 EST Transaction Number: 65
+	Withdraw Agent issued Withdraw of $84.00 at: 12/02/2024 03:56:12 EST Transaction Number: 68
+	Withdraw Agent issued Withdraw of $82.00 at: 12/02/2024 03:56:12 EST Transaction Number: 73
+	Withdraw Agent issued Withdraw of $76.00 at: 12/02/2024 03:56:12 EST Transaction Number: 77
+	Withdraw Agent issued Withdraw of $86.00 at: 12/02/2024 03:56:12 EST Transaction Number: 81
+	Withdraw Agent issued Withdraw of $76.00 at: 12/02/2024 03:56:12 EST Transaction Number: 81
+	Withdraw Agent issued Withdraw of $77.00 at: 12/02/2024 03:56:13 EST Transaction Number: 81
+Deposit Agent issued Deposit of $444.00 at: 12/02/2024 03:56:13 EST Transaction Number: 84
+Deposit Agent issued Deposit of $389.00 at: 12/02/2024 03:56:13 EST Transaction Number: 93
+	Withdraw Agent issued Withdraw of $86.00 at: 12/02/2024 03:56:13 EST Transaction Number: 101
+	Withdraw Agent issued Withdraw of $93.00 at: 12/02/2024 03:56:13 EST Transaction Number: 102
+	Withdraw Agent issued Withdraw of $81.00 at: 12/02/2024 04:04:39 EST Transaction Number: 8
+	Withdraw Agent issued Withdraw of $92.00 at: 12/02/2024 04:04:39 EST Transaction Number: 26
+	Withdraw Agent issued Withdraw of $80.00 at: 12/02/2024 04:04:39 EST Transaction Number: 27
+	Withdraw Agent issued Withdraw of $86.00 at: 12/02/2024 04:04:39 EST Transaction Number: 29
+	Withdraw Agent issued Withdraw of $82.00 at: 12/02/2024 04:04:39 EST Transaction Number: 30
+	Withdraw Agent issued Withdraw of $93.00 at: 12/02/2024 04:04:39 EST Transaction Number: 31
+	Withdraw Agent issued Withdraw of $97.00 at: 12/02/2024 04:04:39 EST Transaction Number: 32
+	Withdraw Agent issued Withdraw of $96.00 at: 12/02/2024 04:04:39 EST Transaction Number: 34
+	Withdraw Agent issued Withdraw of $75.00 at: 12/02/2024 04:04:39 EST Transaction Number: 35
+	Withdraw Agent issued Withdraw of $78.00 at: 12/02/2024 04:04:40 EST Transaction Number: 37
+Deposit Agent issued Deposit of $461.00 at: 12/02/2024 04:04:40 EST Transaction Number: 39
+	Withdraw Agent issued Withdraw of $88.00 at: 12/02/2024 04:04:40 EST Transaction Number: 45
+	Withdraw Agent issued Withdraw of $95.00 at: 12/02/2024 04:04:40 EST Transaction Number: 52
+	Withdraw Agent issued Withdraw of $95.00 at: 12/02/2024 04:04:40 EST Transaction Number: 53
+	Withdraw Agent issued Withdraw of $93.00 at: 12/02/2024 04:04:40 EST Transaction Number: 71
+	Withdraw Agent issued Withdraw of $85.00 at: 12/02/2024 04:04:40 EST Transaction Number: 71
+	Withdraw Agent issued Withdraw of $84.00 at: 12/02/2024 04:04:40 EST Transaction Number: 72
+	Withdraw Agent issued Withdraw of $80.00 at: 12/02/2024 04:04:40 EST Transaction Number: 72
+	Withdraw Agent issued Withdraw of $78.00 at: 12/02/2024 04:04:40 EST Transaction Number: 80
+	Withdraw Agent issued Withdraw of $75.00 at: 12/02/2024 04:04:40 EST Transaction Number: 80
+	Withdraw Agent issued Withdraw of $87.00 at: 12/02/2024 04:04:40 EST Transaction Number: 80
+	Withdraw Agent issued Withdraw of $82.00 at: 12/02/2024 04:04:41 EST Transaction Number: 80
+	Withdraw Agent issued Withdraw of $76.00 at: 12/02/2024 04:04:41 EST Transaction Number: 84
+	Withdraw Agent issued Withdraw of $93.00 at: 12/02/2024 04:04:41 EST Transaction Number: 84
+Deposit Agent issued Deposit of $364.00 at: 12/02/2024 04:04:41 EST Transaction Number: 85
+Deposit Agent issued Deposit of $369.00 at: 12/02/2024 04:06:01 EST Transaction Number: 5
+	Withdraw Agent issued Withdraw of $88.00 at: 12/02/2024 04:06:01 EST Transaction Number: 7
+	Withdraw Agent issued Withdraw of $97.00 at: 12/02/2024 04:06:01 EST Transaction Number: 8
+	Withdraw Agent issued Withdraw of $84.00 at: 12/02/2024 04:06:01 EST Transaction Number: 11
+	Withdraw Agent issued Withdraw of $88.00 at: 12/02/2024 04:06:01 EST Transaction Number: 12
+	Withdraw Agent issued Withdraw of $90.00 at: 12/02/2024 04:06:01 EST Transaction Number: 13
+	Withdraw Agent issued Withdraw of $95.00 at: 12/02/2024 04:06:01 EST Transaction Number: 17
+	Withdraw Agent issued Withdraw of $94.00 at: 12/02/2024 04:06:01 EST Transaction Number: 18
+	Withdraw Agent issued Withdraw of $84.00 at: 12/02/2024 04:06:01 EST Transaction Number: 18
+	Withdraw Agent issued Withdraw of $88.00 at: 12/02/2024 04:06:01 EST Transaction Number: 22
+	Withdraw Agent issued Withdraw of $98.00 at: 12/02/2024 04:06:01 EST Transaction Number: 26
+Deposit Agent issued Deposit of $368.00 at: 12/02/2024 04:06:01 EST Transaction Number: 27
+Deposit Agent issued Deposit of $371.00 at: 12/02/2024 04:06:01 EST Transaction Number: 28
+	Withdraw Agent issued Withdraw of $92.00 at: 12/02/2024 04:06:01 EST Transaction Number: 31
+	Withdraw Agent issued Withdraw of $79.00 at: 12/02/2024 04:06:01 EST Transaction Number: 34
+	Withdraw Agent issued Withdraw of $81.00 at: 12/02/2024 04:06:02 EST Transaction Number: 48
+	Withdraw Agent issued Withdraw of $88.00 at: 12/02/2024 04:06:02 EST Transaction Number: 54
+Deposit Agent issued Deposit of $431.00 at: 12/02/2024 04:06:02 EST Transaction Number: 55
+Deposit Agent issued Deposit of $448.00 at: 12/02/2024 04:06:02 EST Transaction Number: 58
+	Withdraw Agent issued Withdraw of $95.00 at: 12/02/2024 04:06:02 EST Transaction Number: 63
+Deposit Agent issued Deposit of $412.00 at: 12/02/2024 04:06:24 EST Transaction Number: 3
+	Withdraw Agent issued Withdraw of $92.00 at: 12/02/2024 04:06:24 EST Transaction Number: 6
+	Withdraw Agent issued Withdraw of $80.00 at: 12/02/2024 04:06:24 EST Transaction Number: 10
+Deposit Agent issued Deposit of $402.00 at: 12/02/2024 04:06:24 EST Transaction Number: 22
+	Withdraw Agent issued Withdraw of $88.00 at: 12/02/2024 04:06:24 EST Transaction Number: 24
+	Withdraw Agent issued Withdraw of $98.00 at: 12/02/2024 04:06:24 EST Transaction Number: 26
+	Withdraw Agent issued Withdraw of $92.00 at: 12/02/2024 04:06:24 EST Transaction Number: 27
+	Withdraw Agent issued Withdraw of $90.00 at: 12/02/2024 04:06:24 EST Transaction Number: 33
+	Withdraw Agent issued Withdraw of $89.00 at: 12/02/2024 04:06:24 EST Transaction Number: 34
+	Withdraw Agent issued Withdraw of $80.00 at: 12/02/2024 04:06:24 EST Transaction Number: 36
+	Withdraw Agent issued Withdraw of $80.00 at: 12/02/2024 04:06:24 EST Transaction Number: 39
+	Withdraw Agent issued Withdraw of $86.00 at: 12/02/2024 04:06:24 EST Transaction Number: 39
+	Withdraw Agent issued Withdraw of $77.00 at: 12/02/2024 04:06:24 EST Transaction Number: 41
+	Withdraw Agent issued Withdraw of $96.00 at: 12/02/2024 04:06:24 EST Transaction Number: 45
+Deposit Agent issued Deposit of $499.00 at: 12/02/2024 04:06:24 EST Transaction Number: 46
+	Withdraw Agent issued Withdraw of $78.00 at: 12/02/2024 04:06:24 EST Transaction Number: 53
+	Withdraw Agent issued Withdraw of $79.00 at: 12/02/2024 04:06:25 EST Transaction Number: 60
+	Withdraw Agent issued Withdraw of $91.00 at: 12/02/2024 04:06:25 EST Transaction Number: 61
+Deposit Agent issued Deposit of $462.00 at: 12/02/2024 04:06:25 EST Transaction Number: 72
+	Withdraw Agent issued Withdraw of $85.00 at: 12/02/2024 04:06:25 EST Transaction Number: 76
+Deposit Agent issued Deposit of $476.00 at: 12/02/2024 04:06:25 EST Transaction Number: 82
+	Withdraw Agent issued Withdraw of $84.00 at: 12/02/2024 04:06:25 EST Transaction Number: 88
+	Withdraw Agent issued Withdraw of $92.00 at: 12/02/2024 04:06:25 EST Transaction Number: 94
+Deposit Agent issued Deposit of $426.00 at: 12/02/2024 04:12:27 EST Transaction Number: 1
+	Withdraw Agent issued Withdraw of $77.00 at: 12/02/2024 04:12:27 EST Transaction Number: 6
+	Withdraw Agent issued Withdraw of $76.00 at: 12/02/2024 04:12:27 EST Transaction Number: 18
+	Withdraw Agent issued Withdraw of $82.00 at: 12/02/2024 04:12:27 EST Transaction Number: 26
+	Withdraw Agent issued Withdraw of $90.00 at: 12/02/2024 04:12:27 EST Transaction Number: 28
+	Withdraw Agent issued Withdraw of $90.00 at: 12/02/2024 04:12:27 EST Transaction Number: 29
+	Withdraw Agent issued Withdraw of $83.00 at: 12/02/2024 04:12:27 EST Transaction Number: 33
+	Withdraw Agent issued Withdraw of $85.00 at: 12/02/2024 04:12:27 EST Transaction Number: 36
+Deposit Agent issued Deposit of $370.00 at: 12/02/2024 04:12:27 EST Transaction Number: 37
+	Withdraw Agent issued Withdraw of $76.00 at: 12/02/2024 04:12:27 EST Transaction Number: 38
+Deposit Agent issued Deposit of $355.00 at: 12/02/2024 04:12:27 EST Transaction Number: 40
+	Withdraw Agent issued Withdraw of $92.00 at: 12/02/2024 04:12:27 EST Transaction Number: 41
+	Withdraw Agent issued Withdraw of $87.00 at: 12/02/2024 04:12:27 EST Transaction Number: 42
+Deposit Agent issued Deposit of $403.00 at: 12/02/2024 04:12:27 EST Transaction Number: 45
+Deposit Agent issued Deposit of $433.00 at: 12/02/2024 04:12:27 EST Transaction Number: 47
+	Withdraw Agent issued Withdraw of $83.00 at: 12/02/2024 04:12:27 EST Transaction Number: 49
+	Withdraw Agent issued Withdraw of $85.00 at: 12/02/2024 04:12:27 EST Transaction Number: 51
+	Withdraw Agent issued Withdraw of $92.00 at: 12/02/2024 04:12:27 EST Transaction Number: 52
+	Withdraw Agent issued Withdraw of $91.00 at: 12/02/2024 04:12:27 EST Transaction Number: 55
+	Withdraw Agent issued Withdraw of $87.00 at: 12/02/2024 04:12:27 EST Transaction Number: 56
+Deposit Agent issued Deposit of $395.00 at: 12/02/2024 04:12:27 EST Transaction Number: 58
+	Withdraw Agent issued Withdraw of $87.00 at: 12/02/2024 04:12:27 EST Transaction Number: 60
+	Withdraw Agent issued Withdraw of $79.00 at: 12/02/2024 04:12:27 EST Transaction Number: 70
+	Withdraw Agent issued Withdraw of $97.00 at: 12/02/2024 04:12:28 EST Transaction Number: 72
+	Withdraw Agent issued Withdraw of $76.00 at: 12/02/2024 04:12:28 EST Transaction Number: 78
+Deposit Agent issued Deposit of $420.00 at: 12/02/2024 04:12:28 EST Transaction Number: 79
+	Withdraw Agent issued Withdraw of $92.00 at: 12/02/2024 04:12:28 EST Transaction Number: 80
+	Withdraw Agent issued Withdraw of $83.00 at: 12/02/2024 04:12:28 EST Transaction Number: 83
+	Withdraw Agent issued Withdraw of $98.00 at: 12/02/2024 04:12:28 EST Transaction Number: 84
+	Withdraw Agent issued Withdraw of $93.00 at: 12/02/2024 04:12:28 EST Transaction Number: 88
+Deposit Agent issued Deposit of $499.00 at: 12/02/2024 04:12:28 EST Transaction Number: 90
+	Withdraw Agent issued Withdraw of $83.00 at: 12/02/2024 04:12:28 EST Transaction Number: 103
+	Withdraw Agent issued Withdraw of $92.00 at: 12/02/2024 04:12:28 EST Transaction Number: 110
+Deposit Agent issued Deposit of $383.00 at: 12/02/2024 04:12:28 EST Transaction Number: 113
+	Withdraw Agent issued Withdraw of $89.00 at: 12/02/2024 04:12:28 EST Transaction Number: 114
+	Withdraw Agent issued Withdraw of $95.00 at: 12/02/2024 04:12:28 EST Transaction Number: 123
+Deposit Agent issued Deposit of $453.00 at: 12/02/2024 04:12:28 EST Transaction Number: 130
+	Withdraw Agent issued Withdraw of $97.00 at: 12/02/2024 04:12:28 EST Transaction Number: 131
+Deposit Agent issued Deposit of $350.00 at: 12/02/2024 04:13:17 EST Transaction Number: 1
+Deposit Agent issued Deposit of $353.00 at: 12/02/2024 04:13:17 EST Transaction Number: 4
+	Withdraw Agent issued Withdraw of $92.00 at: 12/02/2024 04:13:17 EST Transaction Number: 6
+	Withdraw Agent issued Withdraw of $95.00 at: 12/02/2024 04:13:17 EST Transaction Number: 8
+	Withdraw Agent issued Withdraw of $75.00 at: 12/02/2024 04:13:17 EST Transaction Number: 10
+	Withdraw Agent issued Withdraw of $95.00 at: 12/02/2024 04:13:17 EST Transaction Number: 12
+	Withdraw Agent issued Withdraw of $97.00 at: 12/02/2024 04:13:17 EST Transaction Number: 14
+	Withdraw Agent issued Withdraw of $97.00 at: 12/02/2024 04:13:17 EST Transaction Number: 17
+	Withdraw Agent issued Withdraw of $92.00 at: 12/02/2024 04:13:17 EST Transaction Number: 26
+	Withdraw Agent issued Withdraw of $90.00 at: 12/02/2024 04:13:17 EST Transaction Number: 27
+Deposit Agent issued Deposit of $428.00 at: 12/02/2024 04:13:18 EST Transaction Number: 30
+	Withdraw Agent issued Withdraw of $77.00 at: 12/02/2024 04:13:18 EST Transaction Number: 33
+Deposit Agent issued Deposit of $481.00 at: 12/02/2024 04:13:18 EST Transaction Number: 36
+	Withdraw Agent issued Withdraw of $81.00 at: 12/02/2024 04:13:18 EST Transaction Number: 52
+	Withdraw Agent issued Withdraw of $80.00 at: 12/02/2024 04:13:18 EST Transaction Number: 53
+	Withdraw Agent issued Withdraw of $81.00 at: 12/02/2024 04:13:18 EST Transaction Number: 59
+	Withdraw Agent issued Withdraw of $88.00 at: 12/02/2024 04:13:18 EST Transaction Number: 61
+	Withdraw Agent issued Withdraw of $92.00 at: 12/02/2024 04:13:18 EST Transaction Number: 74
+	Withdraw Agent issued Withdraw of $93.00 at: 12/02/2024 04:13:18 EST Transaction Number: 82
+	Withdraw Agent issued Withdraw of $75.00 at: 12/02/2024 04:13:18 EST Transaction Number: 84
+	Withdraw Agent issued Withdraw of $79.00 at: 12/02/2024 04:13:18 EST Transaction Number: 85
+Deposit Agent issued Deposit of $492.00 at: 12/02/2024 04:13:18 EST Transaction Number: 89
+	Withdraw Agent issued Withdraw of $87.00 at: 12/02/2024 04:13:19 EST Transaction Number: 100
+	Withdraw Agent issued Withdraw of $95.00 at: 12/02/2024 04:13:19 EST Transaction Number: 104
+	Withdraw Agent issued Withdraw of $75.00 at: 12/02/2024 04:13:19 EST Transaction Number: 109
+Deposit Agent issued Deposit of $423.00 at: 12/02/2024 04:13:19 EST Transaction Number: 112
+	Withdraw Agent issued Withdraw of $90.00 at: 12/02/2024 04:13:19 EST Transaction Number: 113
+	Withdraw Agent issued Withdraw of $77.00 at: 12/02/2024 04:13:19 EST Transaction Number: 115
+	Withdraw Agent issued Withdraw of $86.00 at: 12/02/2024 04:13:19 EST Transaction Number: 119
+	Withdraw Agent issued Withdraw of $97.00 at: 12/02/2024 04:13:19 EST Transaction Number: 122
+	Withdraw Agent issued Withdraw of $87.00 at: 12/02/2024 04:13:19 EST Transaction Number: 126
+	Withdraw Agent issued Withdraw of $86.00 at: 12/02/2024 04:13:19 EST Transaction Number: 135
+	Withdraw Agent issued Withdraw of $88.00 at: 12/02/2024 04:13:19 EST Transaction Number: 138
+	Withdraw Agent issued Withdraw of $90.00 at: 12/02/2024 04:13:19 EST Transaction Number: 141
+Deposit Agent issued Deposit of $401.00 at: 12/02/2024 04:13:19 EST Transaction Number: 144
+	Withdraw Agent issued Withdraw of $87.00 at: 12/02/2024 04:13:20 EST Transaction Number: 150
+Deposit Agent issued Deposit of $452.00 at: 12/02/2024 04:13:20 EST Transaction Number: 151
+	Withdraw Agent issued Withdraw of $97.00 at: 12/02/2024 04:13:20 EST Transaction Number: 152
+Deposit Agent issued Deposit of $438.00 at: 12/02/2024 04:13:20 EST Transaction Number: 156
+	Withdraw Agent issued Withdraw of $78.00 at: 12/02/2024 04:13:20 EST Transaction Number: 160
+	Withdraw Agent issued Withdraw of $84.00 at: 12/02/2024 04:13:20 EST Transaction Number: 161
+	Withdraw Agent issued Withdraw of $91.00 at: 12/02/2024 04:13:20 EST Transaction Number: 162
+	Withdraw Agent issued Withdraw of $75.00 at: 12/02/2024 04:13:20 EST Transaction Number: 166
+	Withdraw Agent issued Withdraw of $82.00 at: 12/02/2024 04:13:20 EST Transaction Number: 176
+	Withdraw Agent issued Withdraw of $77.00 at: 12/02/2024 04:13:20 EST Transaction Number: 179
+	Withdraw Agent issued Withdraw of $79.00 at: 12/02/2024 04:13:20 EST Transaction Number: 181
+	Withdraw Agent issued Withdraw of $81.00 at: 12/02/2024 04:13:20 EST Transaction Number: 183
+	Withdraw Agent issued Withdraw of $96.00 at: 12/02/2024 04:13:20 EST Transaction Number: 187
+	Withdraw Agent issued Withdraw of $98.00 at: 12/02/2024 04:13:20 EST Transaction Number: 190
+	Withdraw Agent issued Withdraw of $83.00 at: 12/02/2024 04:13:20 EST Transaction Number: 193
+	Withdraw Agent issued Withdraw of $95.00 at: 12/02/2024 04:13:20 EST Transaction Number: 195
+	Withdraw Agent issued Withdraw of $92.00 at: 12/02/2024 04:13:20 EST Transaction Number: 203
+	Withdraw Agent issued Withdraw of $98.00 at: 12/02/2024 04:13:20 EST Transaction Number: 206
+	Withdraw Agent issued Withdraw of $86.00 at: 12/02/2024 04:13:20 EST Transaction Number: 207
+	Withdraw Agent issued Withdraw of $84.00 at: 12/02/2024 04:13:20 EST Transaction Number: 207
+	Withdraw Agent issued Withdraw of $98.00 at: 12/02/2024 04:13:20 EST Transaction Number: 207
+Deposit Agent issued Deposit of $459.00 at: 12/02/2024 04:13:20 EST Transaction Number: 209
+	Withdraw Agent issued Withdraw of $92.00 at: 12/02/2024 04:13:20 EST Transaction Number: 214
+	Withdraw Agent issued Withdraw of $83.00 at: 12/02/2024 04:13:20 EST Transaction Number: 219
+	Withdraw Agent issued Withdraw of $83.00 at: 12/02/2024 04:13:21 EST Transaction Number: 222
+	Withdraw Agent issued Withdraw of $79.00 at: 12/02/2024 04:13:21 EST Transaction Number: 223
+	Withdraw Agent issued Withdraw of $79.00 at: 12/02/2024 04:14:25 EST Transaction Number: 7
+	Withdraw Agent issued Withdraw of $75.00 at: 12/02/2024 04:14:25 EST Transaction Number: 10
+	Withdraw Agent issued Withdraw of $82.00 at: 12/02/2024 04:14:25 EST Transaction Number: 15
+	Withdraw Agent issued Withdraw of $96.00 at: 12/02/2024 04:14:26 EST Transaction Number: 16
+	Withdraw Agent issued Withdraw of $90.00 at: 12/02/2024 04:14:26 EST Transaction Number: 16
+	Withdraw Agent issued Withdraw of $97.00 at: 12/02/2024 04:14:26 EST Transaction Number: 17
+	Withdraw Agent issued Withdraw of $96.00 at: 12/02/2024 04:14:26 EST Transaction Number: 18
+Deposit Agent issued Deposit of $473.00 at: 12/02/2024 04:14:26 EST Transaction Number: 21
+	Withdraw Agent issued Withdraw of $81.00 at: 12/02/2024 04:14:26 EST Transaction Number: 25
+	Withdraw Agent issued Withdraw of $76.00 at: 12/02/2024 04:14:26 EST Transaction Number: 26
+Deposit Agent issued Deposit of $488.00 at: 12/02/2024 04:14:26 EST Transaction Number: 29
+	Withdraw Agent issued Withdraw of $80.00 at: 12/02/2024 04:14:26 EST Transaction Number: 35
+	Withdraw Agent issued Withdraw of $97.00 at: 12/02/2024 04:14:26 EST Transaction Number: 43
+	Withdraw Agent issued Withdraw of $89.00 at: 12/02/2024 04:14:26 EST Transaction Number: 45
+	Withdraw Agent issued Withdraw of $81.00 at: 12/02/2024 04:14:26 EST Transaction Number: 48
+	Withdraw Agent issued Withdraw of $89.00 at: 12/02/2024 04:14:26 EST Transaction Number: 50
+	Withdraw Agent issued Withdraw of $89.00 at: 12/02/2024 04:14:26 EST Transaction Number: 51
+	Withdraw Agent issued Withdraw of $94.00 at: 12/02/2024 04:14:27 EST Transaction Number: 54
+	Withdraw Agent issued Withdraw of $83.00 at: 12/02/2024 04:14:27 EST Transaction Number: 56
+	Withdraw Agent issued Withdraw of $84.00 at: 12/02/2024 04:14:27 EST Transaction Number: 61
+	Withdraw Agent issued Withdraw of $86.00 at: 12/02/2024 04:14:27 EST Transaction Number: 61
+	Withdraw Agent issued Withdraw of $82.00 at: 12/02/2024 04:14:27 EST Transaction Number: 66
+Deposit Agent issued Deposit of $359.00 at: 12/02/2024 04:14:27 EST Transaction Number: 68
+	Withdraw Agent issued Withdraw of $81.00 at: 12/02/2024 04:14:27 EST Transaction Number: 70
+	Withdraw Agent issued Withdraw of $98.00 at: 12/02/2024 04:14:27 EST Transaction Number: 79
+	Withdraw Agent issued Withdraw of $92.00 at: 12/02/2024 04:14:27 EST Transaction Number: 82
+Deposit Agent issued Deposit of $423.00 at: 12/02/2024 04:16:21 EST Transaction Number: 2
+Deposit Agent issued Deposit of $428.00 at: 12/02/2024 04:16:21 EST Transaction Number: 4
+	Withdraw Agent issued Withdraw of $80.00 at: 12/02/2024 04:16:21 EST Transaction Number: 7
+	Withdraw Agent issued Withdraw of $98.00 at: 12/02/2024 04:16:21 EST Transaction Number: 12
+	Withdraw Agent issued Withdraw of $77.00 at: 12/02/2024 04:16:21 EST Transaction Number: 20
+	Withdraw Agent issued Withdraw of $98.00 at: 12/02/2024 04:16:21 EST Transaction Number: 21
+	Withdraw Agent issued Withdraw of $78.00 at: 12/02/2024 04:16:21 EST Transaction Number: 29
+Deposit Agent issued Deposit of $363.00 at: 12/02/2024 04:16:21 EST Transaction Number: 30
+	Withdraw Agent issued Withdraw of $94.00 at: 12/02/2024 04:16:21 EST Transaction Number: 32
+	Withdraw Agent issued Withdraw of $92.00 at: 12/02/2024 04:16:21 EST Transaction Number: 33
+	Withdraw Agent issued Withdraw of $90.00 at: 12/02/2024 04:16:21 EST Transaction Number: 35
+	Withdraw Agent issued Withdraw of $83.00 at: 12/02/2024 04:16:21 EST Transaction Number: 40
+	Withdraw Agent issued Withdraw of $90.00 at: 12/02/2024 04:16:21 EST Transaction Number: 47
+	Withdraw Agent issued Withdraw of $83.00 at: 12/02/2024 04:16:21 EST Transaction Number: 50
+	Withdraw Agent issued Withdraw of $93.00 at: 12/02/2024 04:16:21 EST Transaction Number: 52
+	Withdraw Agent issued Withdraw of $89.00 at: 12/02/2024 04:16:21 EST Transaction Number: 54
+	Withdraw Agent issued Withdraw of $78.00 at: 12/02/2024 04:16:21 EST Transaction Number: 57
+	Withdraw Agent issued Withdraw of $97.00 at: 12/02/2024 04:16:21 EST Transaction Number: 57
+Deposit Agent issued Deposit of $425.00 at: 12/02/2024 04:16:21 EST Transaction Number: 60
+	Withdraw Agent issued Withdraw of $75.00 at: 12/02/2024 04:16:22 EST Transaction Number: 75
+	Withdraw Agent issued Withdraw of $84.00 at: 12/02/2024 04:16:22 EST Transaction Number: 79
+	Withdraw Agent issued Withdraw of $81.00 at: 12/02/2024 04:16:22 EST Transaction Number: 79
+	Withdraw Agent issued Withdraw of $79.00 at: 12/02/2024 04:16:22 EST Transaction Number: 79
+	Withdraw Agent issued Withdraw of $94.00 at: 12/02/2024 04:16:22 EST Transaction Number: 83
+	Withdraw Agent issued Withdraw of $94.00 at: 12/02/2024 04:16:22 EST Transaction Number: 84
+	Withdraw Agent issued Withdraw of $75.00 at: 12/02/2024 04:16:22 EST Transaction Number: 84
+Deposit Agent issued Deposit of $384.00 at: 12/02/2024 04:16:22 EST Transaction Number: 86
+	Withdraw Agent issued Withdraw of $96.00 at: 12/02/2024 04:16:22 EST Transaction Number: 89
+Deposit Agent issued Deposit of $496.00 at: 12/02/2024 04:16:22 EST Transaction Number: 92
+	Withdraw Agent issued Withdraw of $84.00 at: 12/02/2024 04:16:22 EST Transaction Number: 94
+	Withdraw Agent issued Withdraw of $84.00 at: 12/02/2024 04:16:22 EST Transaction Number: 95
+	Withdraw Agent issued Withdraw of $79.00 at: 12/02/2024 04:16:22 EST Transaction Number: 99
+	Withdraw Agent issued Withdraw of $94.00 at: 12/02/2024 04:16:22 EST Transaction Number: 100
+	Withdraw Agent issued Withdraw of $89.00 at: 12/02/2024 04:16:22 EST Transaction Number: 105
+	Withdraw Agent issued Withdraw of $91.00 at: 12/02/2024 04:16:22 EST Transaction Number: 107
+	Withdraw Agent issued Withdraw of $97.00 at: 12/02/2024 04:16:22 EST Transaction Number: 109
+	Withdraw Agent issued Withdraw of $79.00 at: 12/02/2024 04:16:22 EST Transaction Number: 111
+	Withdraw Agent issued Withdraw of $87.00 at: 12/02/2024 04:16:22 EST Transaction Number: 114
+Deposit Agent issued Deposit of $493.00 at: 12/02/2024 04:16:22 EST Transaction Number: 115
+	Withdraw Agent issued Withdraw of $87.00 at: 12/02/2024 04:16:23 EST Transaction Number: 118
+	Withdraw Agent issued Withdraw of $79.00 at: 12/02/2024 04:16:23 EST Transaction Number: 120
+	Withdraw Agent issued Withdraw of $88.00 at: 12/02/2024 04:16:23 EST Transaction Number: 124
+Deposit Agent issued Deposit of $488.00 at: 12/02/2024 04:16:23 EST Transaction Number: 128
+Deposit Agent issued Deposit of $421.00 at: 12/02/2024 04:16:23 EST Transaction Number: 132
+	Withdraw Agent issued Withdraw of $82.00 at: 12/02/2024 04:16:23 EST Transaction Number: 134
+	Withdraw Agent issued Withdraw of $77.00 at: 12/02/2024 04:16:23 EST Transaction Number: 137
+	Withdraw Agent issued Withdraw of $83.00 at: 12/02/2024 04:16:23 EST Transaction Number: 139
+	Withdraw Agent issued Withdraw of $96.00 at: 12/02/2024 04:16:23 EST Transaction Number: 152
+	Withdraw Agent issued Withdraw of $89.00 at: 12/02/2024 04:16:23 EST Transaction Number: 156
+	Withdraw Agent issued Withdraw of $91.00 at: 12/02/2024 04:16:23 EST Transaction Number: 160
+	Withdraw Agent issued Withdraw of $84.00 at: 12/02/2024 04:16:23 EST Transaction Number: 163
+Deposit Agent issued Deposit of $490.00 at: 12/02/2024 04:21:35 EST Transaction Number: 4
+	Withdraw Agent issued Withdraw of $79.00 at: 12/02/2024 04:21:35 EST Transaction Number: 6
+	Withdraw Agent issued Withdraw of $87.00 at: 12/02/2024 04:21:35 EST Transaction Number: 8
+	Withdraw Agent issued Withdraw of $77.00 at: 12/02/2024 04:21:35 EST Transaction Number: 10
+	Withdraw Agent issued Withdraw of $91.00 at: 12/02/2024 04:21:35 EST Transaction Number: 18
+	Withdraw Agent issued Withdraw of $90.00 at: 12/02/2024 04:21:35 EST Transaction Number: 20
+	Withdraw Agent issued Withdraw of $79.00 at: 12/02/2024 04:21:35 EST Transaction Number: 21
+Deposit Agent issued Deposit of $398.00 at: 12/02/2024 04:21:35 EST Transaction Number: 24
+	Withdraw Agent issued Withdraw of $83.00 at: 12/02/2024 04:21:35 EST Transaction Number: 25
+	Withdraw Agent issued Withdraw of $78.00 at: 12/02/2024 04:21:35 EST Transaction Number: 26
+	Withdraw Agent issued Withdraw of $76.00 at: 12/02/2024 04:21:35 EST Transaction Number: 30
+	Withdraw Agent issued Withdraw of $90.00 at: 12/02/2024 04:21:35 EST Transaction Number: 31
+	Withdraw Agent issued Withdraw of $80.00 at: 12/02/2024 04:21:35 EST Transaction Number: 33
+	Withdraw Agent issued Withdraw of $88.00 at: 12/02/2024 04:21:36 EST Transaction Number: 38
+	Withdraw Agent issued Withdraw of $77.00 at: 12/02/2024 04:21:36 EST Transaction Number: 40
+	Withdraw Agent issued Withdraw of $79.00 at: 12/02/2024 04:21:36 EST Transaction Number: 43
+	Withdraw Agent issued Withdraw of $83.00 at: 12/02/2024 04:21:36 EST Transaction Number: 45
+	Withdraw Agent issued Withdraw of $96.00 at: 12/02/2024 04:21:36 EST Transaction Number: 49
+	Withdraw Agent issued Withdraw of $75.00 at: 12/02/2024 04:21:36 EST Transaction Number: 61
+	Withdraw Agent issued Withdraw of $96.00 at: 12/02/2024 04:21:37 EST Transaction Number: 69
+	Withdraw Agent issued Withdraw of $96.00 at: 12/02/2024 04:21:37 EST Transaction Number: 69
+	Withdraw Agent issued Withdraw of $77.00 at: 12/02/2024 04:21:37 EST Transaction Number: 70
+Deposit Agent issued Deposit of $352.00 at: 12/02/2024 04:21:37 EST Transaction Number: 72
+	Withdraw Agent issued Withdraw of $93.00 at: 12/02/2024 04:21:37 EST Transaction Number: 84
+	Withdraw Agent issued Withdraw of $75.00 at: 12/02/2024 04:21:37 EST Transaction Number: 85
+	Withdraw Agent issued Withdraw of $93.00 at: 12/02/2024 04:21:37 EST Transaction Number: 86
+	Withdraw Agent issued Withdraw of $92.00 at: 12/02/2024 04:21:37 EST Transaction Number: 86
+Deposit Agent issued Deposit of $415.00 at: 12/02/2024 04:22:20 EST Transaction Number: 3
+Deposit Agent issued Deposit of $443.00 at: 12/02/2024 04:22:20 EST Transaction Number: 5
+	Withdraw Agent issued Withdraw of $94.00 at: 12/02/2024 04:22:21 EST Transaction Number: 22
+	Withdraw Agent issued Withdraw of $91.00 at: 12/02/2024 04:22:21 EST Transaction Number: 27
+	Withdraw Agent issued Withdraw of $83.00 at: 12/02/2024 04:22:21 EST Transaction Number: 30
+Deposit Agent issued Deposit of $381.00 at: 12/02/2024 04:22:21 EST Transaction Number: 42
+Deposit Agent issued Deposit of $430.00 at: 12/02/2024 04:22:21 EST Transaction Number: 48
+	Withdraw Agent issued Withdraw of $85.00 at: 12/02/2024 04:22:21 EST Transaction Number: 50
+	Withdraw Agent issued Withdraw of $93.00 at: 12/02/2024 04:22:21 EST Transaction Number: 58
+	Withdraw Agent issued Withdraw of $79.00 at: 12/02/2024 04:22:21 EST Transaction Number: 59
+Deposit Agent issued Deposit of $363.00 at: 12/02/2024 04:22:21 EST Transaction Number: 61
+	Withdraw Agent issued Withdraw of $91.00 at: 12/02/2024 04:22:21 EST Transaction Number: 62
+	Withdraw Agent issued Withdraw of $87.00 at: 12/02/2024 04:22:21 EST Transaction Number: 63
+Deposit Agent issued Deposit of $371.00 at: 12/02/2024 04:22:21 EST Transaction Number: 66
+Deposit Agent issued Deposit of $498.00 at: 12/02/2024 04:22:22 EST Transaction Number: 80
+	Withdraw Agent issued Withdraw of $90.00 at: 12/02/2024 04:22:22 EST Transaction Number: 82
+	Withdraw Agent issued Withdraw of $93.00 at: 12/02/2024 04:22:22 EST Transaction Number: 87
+Deposit Agent issued Deposit of $415.00 at: 12/02/2024 04:22:22 EST Transaction Number: 88
+	Withdraw Agent issued Withdraw of $83.00 at: 12/02/2024 04:22:22 EST Transaction Number: 96
+	Withdraw Agent issued Withdraw of $84.00 at: 12/02/2024 04:22:22 EST Transaction Number: 104
+Deposit Agent issued Deposit of $446.00 at: 12/02/2024 04:22:22 EST Transaction Number: 113
+	Withdraw Agent issued Withdraw of $83.00 at: 12/02/2024 04:22:22 EST Transaction Number: 124
+Deposit Agent issued Deposit of $370.00 at: 12/02/2024 04:22:22 EST Transaction Number: 126
+	Withdraw Agent issued Withdraw of $93.00 at: 12/02/2024 04:22:22 EST Transaction Number: 127
+	Withdraw Agent issued Withdraw of $85.00 at: 12/02/2024 04:22:22 EST Transaction Number: 130
+	Withdraw Agent issued Withdraw of $88.00 at: 12/02/2024 04:22:23 EST Transaction Number: 135
+	Withdraw Agent issued Withdraw of $84.00 at: 12/02/2024 04:22:23 EST Transaction Number: 136
+Deposit Agent issued Deposit of $470.00 at: 12/02/2024 04:22:50 EST Transaction Number: 4
+Deposit Agent issued Deposit of $363.00 at: 12/02/2024 04:22:50 EST Transaction Number: 5
+	Withdraw Agent issued Withdraw of $97.00 at: 12/02/2024 04:22:50 EST Transaction Number: 6
+	Withdraw Agent issued Withdraw of $80.00 at: 12/02/2024 04:22:50 EST Transaction Number: 8
+	Withdraw Agent issued Withdraw of $88.00 at: 12/02/2024 04:22:50 EST Transaction Number: 12
+	Withdraw Agent issued Withdraw of $84.00 at: 12/02/2024 04:22:50 EST Transaction Number: 16
+Deposit Agent issued Deposit of $416.00 at: 12/02/2024 04:22:50 EST Transaction Number: 17
+	Withdraw Agent issued Withdraw of $77.00 at: 12/02/2024 04:22:50 EST Transaction Number: 22
+	Withdraw Agent issued Withdraw of $76.00 at: 12/02/2024 04:22:50 EST Transaction Number: 24
+	Withdraw Agent issued Withdraw of $86.00 at: 12/02/2024 04:22:50 EST Transaction Number: 36
+	Withdraw Agent issued Withdraw of $79.00 at: 12/02/2024 04:22:50 EST Transaction Number: 39
+	Withdraw Agent issued Withdraw of $91.00 at: 12/02/2024 04:22:51 EST Transaction Number: 45
+	Withdraw Agent issued Withdraw of $95.00 at: 12/02/2024 04:22:51 EST Transaction Number: 47
+	Withdraw Agent issued Withdraw of $81.00 at: 12/02/2024 04:22:51 EST Transaction Number: 48
+	Withdraw Agent issued Withdraw of $77.00 at: 12/02/2024 04:22:51 EST Transaction Number: 56
+	Withdraw Agent issued Withdraw of $76.00 at: 12/02/2024 04:22:51 EST Transaction Number: 59
+	Withdraw Agent issued Withdraw of $88.00 at: 12/02/2024 04:22:51 EST Transaction Number: 60
+	Withdraw Agent issued Withdraw of $96.00 at: 12/02/2024 04:22:51 EST Transaction Number: 64
+	Withdraw Agent issued Withdraw of $87.00 at: 12/02/2024 04:22:51 EST Transaction Number: 66
+	Withdraw Agent issued Withdraw of $77.00 at: 12/02/2024 04:22:51 EST Transaction Number: 66
+	Withdraw Agent issued Withdraw of $78.00 at: 12/02/2024 04:22:51 EST Transaction Number: 67
+	Withdraw Agent issued Withdraw of $88.00 at: 12/02/2024 04:22:51 EST Transaction Number: 67
+Deposit Agent issued Deposit of $385.00 at: 12/02/2024 04:22:51 EST Transaction Number: 68
+	Withdraw Agent issued Withdraw of $75.00 at: 12/02/2024 04:22:51 EST Transaction Number: 70
+	Withdraw Agent issued Withdraw of $89.00 at: 12/02/2024 04:22:51 EST Transaction Number: 74
+	Withdraw Agent issued Withdraw of $88.00 at: 12/02/2024 04:22:51 EST Transaction Number: 76
+Deposit Agent issued Deposit of $351.00 at: 12/02/2024 04:22:51 EST Transaction Number: 80
+	Withdraw Agent issued Withdraw of $82.00 at: 12/02/2024 04:22:51 EST Transaction Number: 82
+	Withdraw Agent issued Withdraw of $91.00 at: 12/02/2024 04:22:51 EST Transaction Number: 97
+Deposit Agent issued Deposit of $357.00 at: 12/02/2024 04:22:51 EST Transaction Number: 100
+	Withdraw Agent issued Withdraw of $81.00 at: 12/02/2024 04:24:37 EST Transaction Number: 6
+	Withdraw Agent issued Withdraw of $78.00 at: 12/02/2024 04:24:37 EST Transaction Number: 7
+	Withdraw Agent issued Withdraw of $86.00 at: 12/02/2024 04:24:37 EST Transaction Number: 12
+	Withdraw Agent issued Withdraw of $85.00 at: 12/02/2024 04:24:37 EST Transaction Number: 14
+	Withdraw Agent issued Withdraw of $98.00 at: 12/02/2024 04:24:37 EST Transaction Number: 18
+	Withdraw Agent issued Withdraw of $86.00 at: 12/02/2024 04:24:37 EST Transaction Number: 18
+	Withdraw Agent issued Withdraw of $80.00 at: 12/02/2024 04:24:37 EST Transaction Number: 21
+	Withdraw Agent issued Withdraw of $95.00 at: 12/02/2024 04:24:37 EST Transaction Number: 22
+	Withdraw Agent issued Withdraw of $91.00 at: 12/02/2024 04:24:37 EST Transaction Number: 25
+	Withdraw Agent issued Withdraw of $93.00 at: 12/02/2024 04:24:37 EST Transaction Number: 25
+	Withdraw Agent issued Withdraw of $92.00 at: 12/02/2024 04:24:38 EST Transaction Number: 25
+Deposit Agent issued Deposit of $383.00 at: 12/02/2024 04:24:38 EST Transaction Number: 26
+Deposit Agent issued Deposit of $359.00 at: 12/02/2024 04:24:38 EST Transaction Number: 33
+	Withdraw Agent issued Withdraw of $86.00 at: 12/02/2024 04:24:38 EST Transaction Number: 46
+	Withdraw Agent issued Withdraw of $85.00 at: 12/02/2024 04:24:38 EST Transaction Number: 47
+	Withdraw Agent issued Withdraw of $89.00 at: 12/02/2024 04:24:38 EST Transaction Number: 50
+	Withdraw Agent issued Withdraw of $95.00 at: 12/02/2024 04:24:38 EST Transaction Number: 52
+	Withdraw Agent issued Withdraw of $90.00 at: 12/02/2024 04:24:38 EST Transaction Number: 57
+	Withdraw Agent issued Withdraw of $85.00 at: 12/02/2024 04:24:38 EST Transaction Number: 59
+	Withdraw Agent issued Withdraw of $97.00 at: 12/02/2024 04:24:38 EST Transaction Number: 62
+	Withdraw Agent issued Withdraw of $94.00 at: 12/02/2024 04:24:38 EST Transaction Number: 67
+Deposit Agent issued Deposit of $458.00 at: 12/02/2024 04:24:38 EST Transaction Number: 72
+	Withdraw Agent issued Withdraw of $88.00 at: 12/02/2024 04:24:38 EST Transaction Number: 73
+	Withdraw Agent issued Withdraw of $96.00 at: 12/02/2024 04:24:38 EST Transaction Number: 77
+	Withdraw Agent issued Withdraw of $96.00 at: 12/02/2024 04:24:39 EST Transaction Number: 89
+Deposit Agent issued Deposit of $357.00 at: 12/02/2024 04:24:39 EST Transaction Number: 92
+	Withdraw Agent issued Withdraw of $80.00 at: 12/02/2024 04:24:39 EST Transaction Number: 99
+	Withdraw Agent issued Withdraw of $96.00 at: 12/02/2024 04:24:39 EST Transaction Number: 100
+	Withdraw Agent issued Withdraw of $92.00 at: 12/02/2024 04:24:39 EST Transaction Number: 104
+	Withdraw Agent issued Withdraw of $81.00 at: 12/02/2024 04:24:39 EST Transaction Number: 106
+	Withdraw Agent issued Withdraw of $76.00 at: 12/02/2024 04:24:39 EST Transaction Number: 108
+	Withdraw Agent issued Withdraw of $90.00 at: 12/02/2024 04:24:39 EST Transaction Number: 109
+Deposit Agent issued Deposit of $407.00 at: 12/02/2024 04:24:39 EST Transaction Number: 112
+	Withdraw Agent issued Withdraw of $85.00 at: 12/02/2024 04:24:39 EST Transaction Number: 118
+	Withdraw Agent issued Withdraw of $92.00 at: 12/02/2024 04:24:39 EST Transaction Number: 119
+	Withdraw Agent issued Withdraw of $80.00 at: 12/02/2024 04:24:39 EST Transaction Number: 130
+	Withdraw Agent issued Withdraw of $92.00 at: 12/02/2024 04:24:40 EST Transaction Number: 141
+	Withdraw Agent issued Withdraw of $76.00 at: 12/02/2024 04:24:40 EST Transaction Number: 144
+	Withdraw Agent issued Withdraw of $82.00 at: 12/02/2024 04:24:40 EST Transaction Number: 150
+Deposit Agent issued Deposit of $413.00 at: 12/02/2024 04:24:40 EST Transaction Number: 153
+Deposit Agent issued Deposit of $468.00 at: 12/02/2024 04:24:40 EST Transaction Number: 158
+	Withdraw Agent issued Withdraw of $79.00 at: 12/02/2024 04:24:40 EST Transaction Number: 162
+	Withdraw Agent issued Withdraw of $96.00 at: 12/02/2024 04:24:40 EST Transaction Number: 164
