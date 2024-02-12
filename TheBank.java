@@ -92,7 +92,7 @@ public class TheBank implements TheBankInterface{
             //Display the balance
 
 
-                System.out.print(threadName+" deposits $"+withdrawAmount+"\t\t\t\t");
+                System.out.print(threadName+" withdraws $"+withdrawAmount+"\t\t\t\t");
                 System.out.println("\t\t\t\t\t\t\t(-) Balance is $"+balance+"\t\t\t\t\t\t\t\t"+ transactionNum);
 
             }

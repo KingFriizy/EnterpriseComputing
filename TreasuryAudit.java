@@ -14,7 +14,7 @@ public class TreasuryAudit implements Runnable {
         while(true){
             try{
                 account.treasuryAudit();
-                randomSleep = generator.nextInt(1500) + 2000;
+                randomSleep = generator.nextInt(1500);
 
                 Thread.sleep(randomSleep);
             }catch(Exception e){
