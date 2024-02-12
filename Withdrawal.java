@@ -1,12 +1,18 @@
-import java.util.random.*;
+import java.util.Random;
 public class Withdrawal implements Runnable {
     //Class variables assigned from constructor
     private String threadName;
     private TheBank account;
     
     //Largest deposit allowed 
-    private static final int MAX_DEPOSIT = 500;
-    private static final int MAXSLEEPING = 1500;
+    private static final int MAX_WITHDRAW = 99;
+    private static final int MAXSLEEPING = 500;
+
+    //Random variables
+    private int randomWithdraw;
+    private int randomSleep;
+
+    private static Random generator =  new Random();
 
     //Constructor
     public Withdrawal(TheBank accountArg, String name){
@@ -17,6 +23,19 @@ public class Withdrawal implements Runnable {
 
     @Override
     public void run(){
+        //Run the thread inifinitely
+        while(true){
+            try{
+                //Generate random withdraw amount
+                randomWithdraw = generator.nextInt(MAX_WITHDRAW);
+                randomSleep = generator.nextInt(MAXSLEEPING);
+                
+                account.withdraw(MAX_WITHDRAW, threadName);
+                Thread.sleep(MAXSLEEPING);
+            }catch(Exception exception){
+                System.out.println("Error in the withdraw thread class");
+            }
+        }
 
     }
 
