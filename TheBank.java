@@ -11,8 +11,6 @@ public class TheBank implements TheBankInterface{
     //Defaults to a non-fair lock that gives any thread a chance to get the next lock acces regardless if they were wating longer or not 
     private Lock accessLock = new ReentrantLock();
     private Condition canWithdraw = accessLock.newCondition(); //Condition to prevent the same withdraw thread from tring to withdraw when it clearly cant
-    private Condition canDeposit = accessLock.newCondition(); //Condtion to prevent deposits if audit is working on output
-
     private int balance = 0;
     private int transactionNum = 0;
     private int sinceInternal = 0;
@@ -21,8 +19,6 @@ public class TheBank implements TheBankInterface{
     private int internalCounter = 0;
 
     //Using auditBusy variable to pause deposits/withdraws when audit is in effect
-    private boolean auditBusy = false;
-
     private final int DEPOSIT_ALERT = 350;
     private final int WITHDRAW_ALERT = 75;
 
@@ -46,7 +42,7 @@ public class TheBank implements TheBankInterface{
 
             //Display the balance
             System.out.print(threadName+" deposits $"+depositAmount+"\t\t\t\t");
-            System.out.println("\t\t\t\t\t\t\t(+) Balance is $"+balance+"\t\t\t\t\t\t\t\t"+ transactionNum);
+            System.out.println("\t\t\t(+) Balance is $"+balance+"\t\t\t\t\t"+ transactionNum);
             
             //Tell the withdraw threads to try withdrawing again
             canWithdraw.signalAll();
@@ -71,7 +67,8 @@ public class TheBank implements TheBankInterface{
             //check balance
             //if balance too low
             if((balance - withdrawAmount) < 0){
-                System.out.println("\t\t (******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS");
+                System.out.print("\t\t\t\t" + threadName + " withdraws $"+ withdrawAmount);
+                System.out.println("\t\t\t(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS");
                 flaggedTransaction(withdrawAmount, threadName, "Withdraw");
                 canWithdraw.await();
             }
@@ -92,8 +89,10 @@ public class TheBank implements TheBankInterface{
             //Display the balance
 
 
-                System.out.print(threadName+" withdraws $"+withdrawAmount+"\t\t\t\t");
-                System.out.println("\t\t\t\t\t\t\t(-) Balance is $"+balance+"\t\t\t\t\t\t\t\t"+ transactionNum);
+                //System.out.print("\t\t\t\t" + threadName+" withdraws $"+withdrawAmount);
+                //System.out.println("\t\t\t(-) Balance is $"+balance+"\t\t\t\t\t"+ transactionNum);
+
+                System.out.print("\t\t\t\t" + threadName+" withdraws $"+withdrawAmount+"\t\t\t(-) Balance is $"+balance+"\t\t\t\t\t"+ transactionNum+"\n");
 
             }
                

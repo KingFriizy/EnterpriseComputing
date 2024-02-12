@@ -12,7 +12,7 @@ public class Depositor implements Runnable {
     
     //Largest deposit allowed 
     private static final int MAX_DEPOSIT = 500;
-    private static final int MAXSLEEPING = 1500;
+    private static final int MAXSLEEPING = 2500; //Note: Deposits should be less frequent than withdrawals
 
     //Constructor
     public Depositor(TheBank accountArg, String nameArg){
