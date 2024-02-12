@@ -11,7 +11,6 @@ public class Withdrawal implements Runnable {
     //Random variables
     private int randomWithdraw;
     private int randomSleep;
-
     private static Random generator =  new Random();
 
     //Constructor
@@ -30,8 +29,8 @@ public class Withdrawal implements Runnable {
                 randomWithdraw = generator.nextInt(MAX_WITHDRAW);
                 randomSleep = generator.nextInt(MAXSLEEPING);
                 
-                account.withdraw(MAX_WITHDRAW, threadName);
-                Thread.sleep(MAXSLEEPING);
+                account.withdraw(randomWithdraw, threadName);
+                Thread.sleep(randomSleep);
             }catch(Exception exception){
                 System.out.println("Error in the withdraw thread class");
             }

@@ -48,8 +48,8 @@ public class ABankingSimulator{
             Withdrawal wt10 = new Withdrawal(account, "Agent WT10");
 
             //Creating 2 Auditor threads
-            InternalAudit internalAudit = new InternalAudit();
-            TreasuryAudit treasuryAudit = new TreasuryAudit();
+            InternalAudit internalAudit = new InternalAudit(account);
+            TreasuryAudit treasuryAudit = new TreasuryAudit(account);
 
             //Execute all threads
             application.execute(dt1);
